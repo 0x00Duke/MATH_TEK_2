@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+##
+## EPITECH PROJECT, 2022
+## 201 Yams
+## File description:
+## 201yams
+##
+
+from sys import argv as av
+from src.usage import usage
+from src.errorCheck import errorCheck
+from src.yams import myYams
+
+def main():
+    if (av[0] == "-h" or errorCheck() == 84):
+        usage()
+        exit(84)
+    dies = [int(av[1]), int(av[2]), int(av[3]), int(av[4]), int(av[5])]
+    myYams(dies, av[6].split('_'))
+    exit (0)
+
+if __name__ == "__main__":
+    main()
