@@ -12,5 +12,3 @@ Please find here all the math project that we did with [Jose Antonio](https://gi
 [208DOWELS](https://github.com/0x00Duke/MATH_TEK_2/tree/main/208DOWELS) 50%  
 [209POLL](https://github.com/0x00Duke/MATH_TEK_2/tree/main/209POLL) 100%  
   
-
-echo "run __./202unsold -h__ to get the usage" >> 202UNSOLD/README.md && echo "run __./203hotline -h__ to get the usage" >> 203HOTLINE/README.md && echo "run __./204ducks -h__ to get the usage" >> 204DUCKS/README.md && echo "run __./205iq -h__ to get the usage" >> 205IQ/README.md && echo "run __./206neutrios -h__ to get the usage" >> 206NEUTRIOS/README.md && echo "run __./207demography -h__ to get the usage" >> 207DEMOGRAPHY/README.md && echo "run __./208dowels -h__ to get the usage" >> 208DOWELS/README.md && echo "run __./209poll -h__ to get the usage" >> 209POLL/README.md
